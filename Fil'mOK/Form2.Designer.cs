@@ -57,6 +57,7 @@
             // редакторToolStripMenuItem
             // 
             this.редакторToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.редакторToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.редакторToolStripMenuItem.Name = "редакторToolStripMenuItem";
             this.редакторToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
             this.редакторToolStripMenuItem.Text = "Редактор";

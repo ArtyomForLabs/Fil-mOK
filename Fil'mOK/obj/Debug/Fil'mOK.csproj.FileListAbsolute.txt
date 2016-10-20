@@ -24,3 +24,6 @@ C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\Fil'mOK\obj\Debug\Fi
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\Fil'mOK\obj\Debug\Fil_mOK.Form3.resources
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\Fil'mOK\obj\Debug\Fil_mOK.Properties.Resources.resources
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\Fil'mOK\obj\Debug\Fil'mOK.csproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\bin\Debug\Fil'mOK.exe.config
+C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.pdb
