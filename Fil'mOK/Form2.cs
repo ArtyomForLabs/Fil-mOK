@@ -27,5 +27,10 @@ namespace Fil_mOK
             Form1 f1 = new Form1();
             f1.ShowDialog();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
