@@ -27,3 +27,6 @@ C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\Fil'mOK\obj\Debug\Fi
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\bin\Debug\Fil'mOK.exe.config
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.exe
 C:\Users\home\Documents\Visual Studio 2012\Projects\Fil'mOK\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.pdb
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\filmtemp\Fil'mOK\bin\Debug\Fil'mOK.exe.config
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.exe
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\filmtemp\Fil'mOK\obj\Debug\Fil'mOK.pdb
