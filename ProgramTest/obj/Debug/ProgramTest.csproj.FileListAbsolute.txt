@@ -1,0 +1,14 @@
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilm.mdf
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilm_log.ldf
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\ProgramTest.dll
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\ProgramTest.pdb
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\Fil'mOK.exe
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\Fil'mOK.pdb
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\obj\Debug\ProgramTest.csprojResolveAssemblyReference.cache
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\obj\Debug\ProgramTest.dll
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\obj\Debug\ProgramTest.pdb
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilmDataSet.cs
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilmDataSet.Designer.cs
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilmDataSet.xsc
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilmDataSet.xsd
+E:\МИЭТ\8140147\5ый семестр\Программирование ПО\filmtemp\ProgramTest\bin\Debug\BDFilmDataSet.xss
